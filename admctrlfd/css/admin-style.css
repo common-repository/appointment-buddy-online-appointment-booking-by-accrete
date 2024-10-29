@@ -1,0 +1,35 @@
+label.error { color:#f00; display:block; }
+.ab-wrap h1 { margin-bottom: 10px; }
+.ui-tabs-active { box-shadow: none; border-bottom: 4px solid #666; color: #23282d; }
+.services-col-left { float: left; width: 40%; }
+.services-col-right { float: right; width: 50%; }
+.col-mid { float: none; width: 60%; }
+.button .dashicons { margin-top: 3px; }
+.checkbox-group { overflow: hidden; }
+.checkbox-group label { float: left; margin: 0 5px 5px 0; padding: 4px 8px; border: 1px solid #ddd; background: #fff; border-radius: 3px; }
+.notice p { font-size: 15px; }
+.notice-success { background: #46b450; color: #fff; }
+.notice-warning { background: #ffb900; color: #fff; }
+.notice-error { background: #dc3232; color: #fff; }
+.star-red { color: #f00; }
+.widefat .display-bold-msg { font-size: 30px; font-weight: bold; text-align: center; }
+.wp-filter { font-size: 15px; }
+.filter-links li > a { margin: 0 15px; }
+.manage-column.column-edit, .manage-column.column-delete { width:10%; }
+.page-numbers { background-color:#eee; padding:5px; font-size:18px; font-weight:bold; }
+.delete-link, .delete-link:hover { background-color: #f00; border-radius: 5px; color: #fff; padding: 5px; }
+.edit-link, .edit-link:hover { background-color: #FC0; border-radius: 5px; color: #000; padding: 5px 8px; }
+.view-link, .view-link:hover { background-color: #131DE9; border-radius: 5px; color: #fff; padding: 5px 8px; }
+.defaultPagiantion { font-size:16px; font-weight:bold; }
+.linkNumber { border: 2px solid #ccc; padding: 8px; }
+.linkNumber:hover { border: 2px solid #ccc; padding: 8px; color:#000; }
+
+.services-col-right { position: relative; }
+.box-loader { background: rgba(255,255,255,0.8); position: absolute; top: 0; left: 0; width: 100%; min-height: 356px; height: 100%; z-index: 9999; }
+.box-loader img { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+
+#export {margin-bottom:10px; background-color: #ccc; font-size: 16px; font-weight: bold;}
+#headingTextH2 {text-align: center;}
+.column-isDeleted {width:45px;}
+.bookedAppointment { background-color:#3a87ad; display:inline-block; height:10px; width:10px; vertical-align:middle; }
+.holidayDefined { background-color:#CB4630; display:inline-block; height:10px; width:10px; vertical-align:middle; }
